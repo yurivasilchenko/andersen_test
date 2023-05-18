@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Message Form</title>
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
 </head>
 <body>
 <h1>Message Form</h1>
